@@ -1,0 +1,5 @@
+#!/bin/bash
+
+apt update -y
+apt upgrade -y
+apt install git python3-pip python3-dev jq -y
